@@ -2,4 +2,4 @@
 
 ### Output
 
-- ![Accordian Output](https://github.com/Khawarmehfooz/accordian-project-in-react-by-codedamn/tree/main/src/accordian_project.png)
+- ![Accordian Output](https://github.com/Khawarmehfooz/accordian-project-in-react-by-codedamn/tree/main/src/assets/accordian_project.png)
